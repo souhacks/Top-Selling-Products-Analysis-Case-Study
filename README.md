@@ -105,6 +105,13 @@ The processed data was imported into **Power BI** to create an intuitive and vis
 
 ---
 
+## Yearly Product Sales Overview
+This section provides an overview of sales for all products launched in the past year.
+
+![Yearly Product Sales Overview](dashboard.png)
+
+---
+
 ## **Tools Used**
 1. **Power BI**: For visualization and dashboard creation.
 2. **DAX (Data Analysis Expressions)**: To calculate custom measures and KPIs in Power BI.
