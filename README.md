@@ -91,12 +91,12 @@ The processed data was imported into **Power BI** to create an intuitive and vis
 ## **Results**
 ### Key Findings:
 1. **Top Performers**:  
-   - Smartphones were the highest-selling product, contributing **40%** to the total revenue.
-   - Laptops and headphones followed as the next best performers.
+   - Laptops were the highest-selling product, contributing **20.65%** to the total revenue.
+   - Smartwatch and Desktop PC followed as the next best performers.
 
 2. **Sales Trends**:  
-   - New product launches showed a peak in the first two months but declined thereafter.
-   - Marketing campaigns drove significant spikes in sales, particularly for high-performing products.
+   - Sales Trends remain continous through out the year.
+   - Summer Sale 2022 show more sales numbers and Black Friday Sale 2023 show least.
 
 3. **Insights for Action**:
    - Allocate more marketing budget to top-performing products.
@@ -107,15 +107,13 @@ The processed data was imported into **Power BI** to create an intuitive and vis
 
 ## **Tools Used**
 1. **Power BI**: For visualization and dashboard creation.
-2. **Python**: For data cleaning and preprocessing.
-3. **DAX (Data Analysis Expressions)**: To calculate custom measures and KPIs in Power BI.
-4. **Excel/CSV Files**: For initial data input and export.
+2. **DAX (Data Analysis Expressions)**: To calculate custom measures and KPIs in Power BI.
+3. **Excel/CSV Files**: For initial data input and export.
 
 ---
 
 ## **Folder Structure**
 - **Data**: Contains the raw and cleaned datasets used for analysis.
-- **Scripts**: Python scripts for preprocessing and cleaning the data.
 - **Power BI Files**: `.pbix` files with the dashboards and visualizations.
 - **Documentation**: Includes this README and project documentation.
 
@@ -124,10 +122,7 @@ The processed data was imported into **Power BI** to create an intuitive and vis
 ## **How to Run This Project**
 ### Prerequisites:
 - Install **Power BI Desktop** for viewing and interacting with the dashboards.
-- Install Python and libraries if you want to preprocess the data:
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
+
 
 ### Steps:
 1. Clone this repository:
@@ -135,12 +130,8 @@ The processed data was imported into **Power BI** to create an intuitive and vis
    git clone https://github.com/your-repo/top-selling-products.git
    cd top-selling-products
    ```
-2. Preprocess the data using the provided Python script:
-   ```bash
-   python preprocess_data.py
-   ```
-3. Open the Power BI file (`TopSellingProducts.pbix`) in **Power BI Desktop**.
-4. Explore the interactive dashboard and insights.
+2. Open the Power BI file (`TopSellingProducts.pbix`) in **Power BI Desktop**.
+3. Explore the interactive dashboard and insights.
 
 ---
 
