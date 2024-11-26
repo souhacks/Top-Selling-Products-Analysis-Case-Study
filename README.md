@@ -150,7 +150,7 @@ This section provides an overview of sales for all products launched in the past
 ---
 
 ## **Contributors**
-- **Your Name** - Data Analysis, Dashboard Development, and Documentation.
+- **Sourav Verma** - Data Analysis, Dashboard Development, and Documentation.
 
 ---
 
